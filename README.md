@@ -63,12 +63,14 @@ It will ask for your user password for installing dependencies. If no error occu
 
 #### Note : cowbot won't work properly without its dependencies. So step-3 is must! 
 
-## Uninstallation Instructions :
+## Uninstallation Instructions 
 Type in terminal
 ~~~
 cowbot-uninstall
 ~~~
 
 **Programming langauges used : Java, Shell, C++, SQL, XML**
+
+### Upgrade to Advanced/Premium AI Assistant LEOBOT, speaking lion instead of cow! Contact me to buy @ t.me/soul4Krishna
 
 For issues contact me @ `yashlakhtariya1010@gmail.com`
