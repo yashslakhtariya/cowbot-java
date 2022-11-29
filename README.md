@@ -32,7 +32,10 @@ Presently, Dhenu can :
 #### Kernel : Arch Official Kernels (linux, zen, lts, hardened)
 
 
-#### GCC : v11.0+ (compiled cowbot with gcc 12.1)
+#### Java : JavaSE-17 (made with openjdk-17)
+
+
+#### GCC : v11.0+ (compiled cowbot with gcc 12.2)
 
 
 #### Dependencies : pacman, paru for installing other dependencies
