@@ -38,6 +38,9 @@ Presently, Dhenu can :
 #### GCC : v11.0+ (compiled cowbot with gcc 12.2)
 
 
+#### Database : MariaDB-10.9+ (Recommended) or MySQL-8.0+
+
+
 #### Dependencies : pacman, paru for installing other dependencies
 
 
