@@ -1,7 +1,7 @@
 # COWBOT  
 ## AI Linux Assistant
 
-Cowbot is extremely easy to use. Just type specific KEYWORDS in your sentence to perform operations. Name of the cowbot is DHENU. She is extremely powerful and she can help you save time and manage your Linux machine flawlessly
+Cowbot is extremely easy to use. Just type specific KEYWORDS in your sentence to perform operations. Name of the cowbot is DHENU. She is extremely powerful and she can help you save time and manage your Linux machine flawlessly.
 
 Presently, Dhenu can :
 
@@ -69,4 +69,5 @@ Type in terminal
 cowbot-uninstall
 ~~~
 
+**Programming langauges used : Java, Shell, C++, SQL, XML**
 For issues contact me @ `yashlakhtariya1010@gmail.com`
