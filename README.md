@@ -29,7 +29,7 @@ Presently, Dhenu can :
 #### OS : Arch Linux or any Arch based distro
 
 
-#### Kernel : Arch Official Kernels (linux, zen, lts, hardened)
+#### Kernel : Arch Official Kernels (linux, zen, lts, hardened) (recommended) or custom kernels
 
 
 #### Java : JavaSE-17 (made with openjdk-17)
@@ -42,9 +42,6 @@ Presently, Dhenu can :
 
 
 #### Dependencies : pacman, paru for installing other dependencies
-
-
-#### (Note : May or may not work with custom kernels)
 
 
 ## Installation Instructions :
