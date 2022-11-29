@@ -71,7 +71,6 @@ cowbot-uninstall
 
 **Programming langauges used : Java, Shell, C++, SQL, XML**
 
-### Upgrade to Advanced/Premium AI Assistant LEOBOT, speaking lion instead of cow! Contact me to buy @ https://t.me/soul4Krishna or mail me at below address
-
-
 **For issues/feedback contact me @ `yashlakhtariya1010@gmail.com`**
+
+### Upgrade to Advanced/Premium AI Assistant LEOBOT, speaking lion instead of cow! Contact me to buy @ https://t.me/soul4Krishna or mail me at above address
