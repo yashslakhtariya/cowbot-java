@@ -69,7 +69,7 @@ Type in terminal
 cowbot-uninstall
 ~~~
 
-**Programming langauges used : Java, Shell, C++, SQL, XML**
+**Programming languages used : Java, Shell, C++, SQL, XML**
 
 **For issues/feedback contact me @ `yashlakhtariya1010@gmail.com`**
 
